@@ -1,5 +1,6 @@
 {
   "name": "counter-app",
+  "homepage": "https://github.com/miracleSw/Counter",
   "private": true,
   "version": "0.0.0",
   "type": "module",
