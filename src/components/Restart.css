@@ -1,0 +1,34 @@
+.reset-container {
+    position: absolute;
+    top: 0;
+    color: #fff;
+    align-items: center;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100%;
+    width: 99%;
+}
+
+.reset-container h1 {
+    font-size: 48px;
+}
+
+.reset-container button {
+    color: #fff;
+    background-color: #000000;
+    border: none;
+    font-size: 28px;
+    font-weight: bold;
+    border-radius: 12px;
+    margin: 10px;
+    width: 150px;
+    height: 64px;
+    transition: scale .4s ease;
+}
+
+.reset-container button:hover {
+    border: 1px solid #fff;
+    scale: 110%;
+}
